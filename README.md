@@ -101,6 +101,11 @@ Before running any scripts, make sure your Python environment is set up to find 
 
 export PYTHONPATH=$PWD
 
+if we are using command prompt use 
+
+set PYTHONPATH=%cd%
+
+
 This tells Python where to look for the project's files.
 
 ### 3. Generate the Dataset
@@ -174,4 +179,4 @@ With more time, the following improvements could be made:
 ### Group Memebers 
 Krishna Manideep Malladi (A20550891)
 Udaya Sree Vankdavath (A20552992)
-Manvitha (A#34567)
+Manvitha Byrineni (A20550783)
