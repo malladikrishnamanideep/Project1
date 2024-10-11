@@ -124,6 +124,8 @@ This will:
 - Predict and evaluate the results using `predict()`.
 - Generate visualizations like "Actual vs Predicted" and "Residuals."
 
+![alt text](<Screenshot 2024-10-10 194317.png>)
+
 
 ## Evaluation Metrics
 
@@ -139,6 +141,7 @@ Mean Squared Error (MSE): 1.85
 Mean Absolute Error (MAE): 1.2
 R-squared (R²): 0.75
 
+![alt text](<Screenshot 2024-10-10 194334.png>)
 
 
 ## Visualizations
@@ -150,6 +153,7 @@ The test script will generate several plots to help visualize the model’s perf
 3. **Distribution of Target Values**: A histogram that shows the spread of the target variable.
 4. **Feature Weights**: A bar chart showing the learned importance of each feature in the model.
 
+![alt text](<Screenshot 2024-10-10 194352.png>)
 
 
 ## Known Limitations
